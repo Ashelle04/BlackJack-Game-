@@ -3,13 +3,11 @@ Blackjack Game
 Welcome to the Blackjack Game, a simple text-based implementation of the classic card game in Python. This game allows you to play Blackjack against the computer and test your luck!
 
 Instructions
-Try the Game: Before exploring the code, try playing the Blackjack game here.
-
-Explore the Completed Project: Check out the completed Blackjack project here.
+Try the Game: Before exploring the code, try playing the Blackjack game https://games.washingtonpost.com/games/blackjack.
 
 Program Requirements: Understand the breakdown of program requirements by reading this list.
 
-Flowchart: Create your own flowchart for the program based on the provided breakdown or download the flowchart here.
+**Flowchart: Create your own flowchart for the program based on the provided breakdown or download the flowchart here.**
 
 Code Highlights
 Hint 4: deal_card()
